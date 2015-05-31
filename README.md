@@ -1,14 +1,14 @@
 gulp-node-webkit-builder
 ========================
 
-![](http://img.shields.io/badge/npm_module-v1.1.0-green.svg?style=flat)  ![][david-url]
+![](http://img.shields.io/badge/npm_module-v1.1.1-green.svg?style=flat)  ![][david-url]
 ![][travis-url]
 
 Help developers build their own node-webkit apps for different platforms such as win, mac and linux with gulp.
 ## Information
 
 <table>
-<tr> 
+<tr>
 <td>Package</td><td>gulp-node-webkit-builder</td>
 </tr>
 <tr>
